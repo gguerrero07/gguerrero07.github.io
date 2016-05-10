@@ -1,6 +1,8 @@
 h1{
   color:red;
   font-size:25px;
+  opacity:.5;
+  font-size: 50px ;
 }
 img{
   width:200px;
