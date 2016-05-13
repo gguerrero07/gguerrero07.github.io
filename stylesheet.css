@@ -8,6 +8,7 @@ img{
   border: 3px #034B63 ;
   border-radius: 15px ;
   opacity: .6 ;
+  display: inline-block ;
 }
 h2{
   font-size:50px;
