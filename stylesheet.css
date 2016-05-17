@@ -40,3 +40,6 @@ background: -ms-linear-gradient(left, rgba(97,94,97,1) 0%, rgba(194,149,169,1) 1
 background: linear-gradient(to right, rgba(97,94,97,1) 0%, rgba(194,149,169,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#615e61', endColorstr='#c295a9', GradientType=1 );
 }
+#description{
+  display:inline-block;
+}
