@@ -12,7 +12,7 @@ $(document).ready(function(){
     $("#percussion_description").css("display","inline-block");
   });
 })
-$("#psych").click(function()) {
+$("#psych").click(function()) 
   $("#psych").fadeIn("slow", function()) {
     
   });
