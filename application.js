@@ -13,6 +13,8 @@ $(document).ready(function(){
   });
   $("#psych").click(function(){
     $("#psych_description").fadeIn("slow", function() {
+      $("#percussion").click(function(){
+    $("#percussion_description").fadeIn("slow", function()
     });
   });
 })
