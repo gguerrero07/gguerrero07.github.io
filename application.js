@@ -1,4 +1,4 @@
-$(document)ready(function(){
+$(document).ready(function(){
   $("#psych_description").css("display","none");
   $("#percussion_description").css("display","none");
   //when you mouse over the psych image, make the psych_display visible
