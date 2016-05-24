@@ -15,6 +15,5 @@ $(document).ready(function(){
     $("#psych_description").fadeIn("slow", function() {
       $("#percussion").click(function(){
     $("#percussion_description").fadeIn("slow", function()
-    });
   });
 })
