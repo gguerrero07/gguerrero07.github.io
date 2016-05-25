@@ -11,8 +11,3 @@ $(document).ready(function(){
     $("#psych_description").css("display","none");
     $("#percussion_description").css("display","inline-block");
   });
-  $("#psych").click(function(){
-    $("#psych_description").fadeIn("slow", function() {
-    });
-  });
-})
